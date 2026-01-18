@@ -9,3 +9,5 @@ I'm currently learning JavaScript, HTML, and CSS, and I plan to post several pro
 
  <div align="left">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+<img src="https://github.com/user-attachments/assets/96e1981d-07ab-438b-ba7a-d38eb97ed1c2" height="40" alt="html5 logo" />
+<img src="https://github.com/user-attachments/assets/2df7b42e-5167-4685-ba0d-81fb596375eb" height="40" alt="css3" />
